@@ -1,0 +1,90 @@
+[
+  {
+    "Id": "0a28a95e-42a8-483b-b85d-786f1b709712",
+    "Description": "In dem Projekt geht es um (a) eine deskriptive Analyse von Einsamkeit, Wohlbefinden und Lebenszufriedenheit im Kontext verschiedener Nutzungsmuster sozialer Medien (b) die Wirkung funktionaler vs. dysfunktionaler Nutzungsmuster auf das Wohlbefinden von Jugendlichen und jungen Erwachsenen, und (c) die Unterscheidung von Kohorten- und Altersunterschieden.",
+    "AlternativeShortDescription": "Jugend, Social Media und psychische Gesundheit",
+    "ContractOnsite": false,
+    "ContractRemote": false,
+    "EndDate": "2014-01-01T23:28:56.782Z",
+    "NewInstution": true,
+    "InstutionId": null,
+    "QualificationBMD": true,
+    "QualificationPromotion": true,
+    "QualificationStateDoctorate": true,
+    "ShortDescription": "",
+    "ProcessingStateId": 1,
+    "ContractsTypeId": 1,
+    "Comment": "",
+    "City": "Bamberg",
+    "Country": "Germany",
+    "Street": "Wilhelmspost",
+    "StreetNr": "3",
+    "Zip": "96049",
+    "ContractProjectId": 1,
+    "Applicants": [
+      {
+          "FirstName": "Gerhard",
+          "LastName": "Kraft",
+          "Requestor": true,
+          "Id": 33,
+          "Email": "gerhard.kraft@lifbi.de",
+          "Salutation": "Herr",
+          "NepsAccount": "nu0000033",
+          "Sex": "male",
+          "Title": "",
+          "Comment": "",
+          "ContractOnsite": false,
+          "ContractRemote": false
+      },
+      {
+        "FirstName": "Maximilian",
+        "LastName": "Anton",
+        "Requestor": true,
+        "Email": "maximilian.Anton@lifbi.de",
+        "Salutation": "Herr",
+        "Sex": "male",
+        "Title": "",
+        "Comment": "",
+        "ContractOnsite": false,
+        "ContractRemote": false
+      }
+    ]
+  },
+  {
+    "Id": "ab416430-3f47-4abb-ba7d-c27c52cd3fa6",
+    "Description": "In dem Projekt sollen Geschlechterunterschiede in den Bildungsmotivationen und -entscheidungen analysiert werden, insbesondere beim Übergang zum tertiären Bildungsbereich.",
+    "AlternativeShortDescription": "Geschlechterunterschiede in den bildungsbezogenen Motivationen",
+    "ContractOnsite": false,
+    "ContractRemote": false,
+    "EndDate": "2014-01-01T23:28:56.782Z",
+    "NewInstution": true,
+    "InstutionId": null,
+    "QualificationBMD": true,
+    "QualificationPromotion": true,
+    "QualificationStateDoctorate": true,
+    "ShortDescription": "",
+    "ProcessingStateId": 1,
+    "ContractsTypeId": 1,
+    "Comment": "",
+    "City": "Bamberg",
+    "Country": "Germany",
+    "Street": "Wilhelmspost",
+    "StreetNr": "3",
+    "Zip": "96049",
+    "ContractProjectId": 1,
+    "Applicants": [
+      {
+          "FirstName": "Maximilian",
+          "LastName": "Anton",
+          "Requestor": true,
+          "Email": "maximilian.Anton@lifbi.de",
+          "Salutation": "Herr",
+          "Sex": "male",
+          "Title": "",
+          "Comment": "",
+          "ContractOnsite": false,
+          "ContractRemote": false
+      }
+    ]
+  }
+]
